@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "T. R. Brooks / Site Title"
+title                    : "T. R. Brooks / Homepage"
 title_separator          : "-"
 name                     : &name "T. R. Brooks"
 description              : &description "personal description"
